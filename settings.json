@@ -1,14 +1,14 @@
 {
-  "name": "AFK Bot",
+  "name": "Badmos_Billa",
   "bot-account": {
-    "username": "SoloCloudHosting",
+    "username": "Badmos_Billa",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.host",
-    "port": 25565,
-    "version": "1.20.1",
+    "ip": "swargxsmp.aternos.me",
+    "port": 29605,
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "SoloPlayz"
+      "password": "baddybillu"
     },
     "anti-afk": {
       "enabled": true,
@@ -31,9 +31,16 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to SoloPlayz!",
-        "Want Cheap Premium MC Server? https://discord.gg/VRMUnDkf95"
+        "I'm a bad billa ^v^",
+        "Subscribe to LeoLoki_Gamerz!",
+        "Majak nhi mittar, repta pdega",
+        "Tereko mujhse ladna hai -_- ?",
+        "Loki ki jay",
+        "Gravexis is gay",
+        "Gravexis ladki chhed rha hai ^v^",
+        "Badmosi na mittar",
+        "bhonk mat",
+        "Oye! Diamonds mil gye....majak karra tha ^v^"
       ]
     },
     "chat-log": true,
